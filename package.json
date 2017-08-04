@@ -1,0 +1,12 @@
+{
+  "name": "test-grpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rhiokim/test-grpc.git",
+  "author": "Rhio Kim <rhio.kim@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "grpc": "^1.4.1",
+    "mali": "^0.3.0"
+  }
+}
